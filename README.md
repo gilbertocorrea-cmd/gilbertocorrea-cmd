@@ -72,8 +72,6 @@ Technology, integration and security applied to real-world scenarios.
 
 https://www.linkedin.com/in/gilberto-correa-t3574
 
-📧 gabebross5@gmail.com
-
 ---
 
 <div align="center">
